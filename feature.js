@@ -1,3 +1,5 @@
 
-console.log("coflict 3");
+
+console.log("feature 1");
+
 
