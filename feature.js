@@ -1,3 +1,3 @@
 
-console.log("coflict 2");
+console.log("feature 1");
 
